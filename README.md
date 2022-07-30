@@ -28,7 +28,7 @@ Currently, we have deployed AFE on a real-world system, affecting millions of us
 In the actual online system, AFE is a complex re-ranking framework implemented in C++. 
 All models are trained based on a deeply customized version of distributed tensorflow supporting large-scale sparse features.
 
-Without massive data and machine resources, training DRL-Rec is not realistic.
+Without massive data and machine resources, training AFE is not realistic.
 
 Therefore, the open source code here only implements a simplified version for interested researchers. If there are any errors, please contact me. Thanks!
 
